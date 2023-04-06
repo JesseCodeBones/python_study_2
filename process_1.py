@@ -22,3 +22,4 @@ if __name__=='__main__':
     # p.start()
     # p.join()
     print('Child process end.')
+# Python 的 multiprocessing和Queue还支持分布式部署
